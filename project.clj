@@ -7,6 +7,6 @@
                  [clj-time "0.15.9"]
                  [kipz-test "1.2.3"]
                  [kipz-test2 "1.2.4"]
-                 [kipz-test3 "1.2.0"]
+                 [kipz-test3 "1.2.9"]
                  [org.clojure/tools.logging "0.4.2"]
                  [clj-http-lite "0.3.1"]])
