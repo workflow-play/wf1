@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.10.2"]
                  [clj-time "0.15.9"]
                  [kipz-test "1.2.3"]
+                 [api-demo "0.9.0"]
                  [org.clojure/tools.logging "0.4.2"]
                  [clj-http-lite "0.3.1"]])
